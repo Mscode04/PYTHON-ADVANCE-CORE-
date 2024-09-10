@@ -1,0 +1,6 @@
+a=input(" enter your name: ")
+b=input(" enter your: hose name: ")
+c=input(" enter your town: ")
+d=input(" enter your dict: ")
+e=input(" enter your contry: ")
+print(a,end= b,c,d,e)
